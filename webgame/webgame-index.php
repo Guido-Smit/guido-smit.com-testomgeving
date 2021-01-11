@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <link rel=stylesheet href=..//index.css />
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>guido-smit.com | webgames</title>
+  <link rel="shortcut icon" href="TemplateData/favicon.ico">
+  <link rel="stylesheet" href="TemplateData/style.css">
+  <script src="TemplateData/UnityProgress.js"></script>
+  <script src="Build/UnityLoader.js"></script>
+  <script>
+    
+  </script>
+</head>
+
+<body>
+
+
+
+<div class="flex_head">
+    <div>
+        <img class="head_image" src="..//Images\sunnyme.jpg" alt="sunrise" >
+    </div>
+    <div>
+        <img class="head_image" src="..//Images\view.jpg" alt="view">
+    </div>
+    <div class="title" id="title">
+        Spellen
+    </div>
+    <div>
+        <img class="head_image" src="..//Images\misty.jpg" alt="view">
+    </div>
+    <div>
+        <img class="head_image" src="..//Images\selfie.jpg" alt="view">
+    </div>
+</div>
+
+
+<div class="navbar">
+    <div class="dropdown">  
+      <a  href="..//index.php" id="home">
+        Hoofdpagina
+      </a>
+    </div>
+    <div class="dropdown">  
+      <a  href="#projecten" id="projecten_nav">
+          Mijn projecten
+      </a>
+    </div>
+    <div class="dropdown">
+      <a  href="#Games" class="dropbtn" id="games_nav">
+          Spellen
+      </a>
+      <div class="dropdown-content">
+          <a href="#penguin" id="penguin_nav">
+              Penguin Peril
+          </a>
+          <a href="#todo" id="todo_nav">
+              ...
+          </a>           
+      </div>
+    </div>
+  <div class="flag_image_container">
+      <div id="language">
+          Taal
+      </div>
+      <div class="flag_image">
+          <img id="lang" name="dutch" src="..//Images\dutch.png" alt="view" width="100%" height="100%">
+      </div>
+  </div>
+</div>
+
+
+<div class="flex_body">
+  <div class="flex_CV">
+      <div class="subtitle" id="projecten">
+          Mijn projecten
+      </div>
+      <div class="text" id="projecten_text">
+          Op deze pagina staat een verzameling van de projecten die ik heb gemaakt tijdens of na mijn omscholing via Young Capital.
+          De meeste projecten zullen bestaan uit videogames omdat dit mijn grote hobby is en een leuke manier om te leren programmeren.
+          <br> 
+          <br>
+          Deze pagina is nog onvolledig en zal ter zijner tijd worden aangevuld met meer projecten.
+          <br>
+          <br>
+      </div>
+  </div>
+</div>
+
+<div class="flex_body_column">
+  <div class="flex_CV">
+    <div class="subtitle" id="penguin_peril">
+        Penguin Peril
+    </div>
+    <div class="text" id="penguin_peril_text">
+        Penguin Peril is een simpel spelletje gemaakt in Unity. Het volgt hetzelfde principe als een populair spelletje genaamd "Flappy Bird". 
+        <br> 
+        <br>
+        De besturing is erg eenvouding en werkt door middel van achtereenvolgend klikken met de muis of het gebruiken van de spatiebalk.
+        Het doel is om de pinguin zo ver mogelijk te laten zwemmen in het steeds moeilijker wordende level. 
+        <br>
+        <br>
+    </div>
+    <button class="button" name="penguin_peril">Play Game</button>
+  </div>
+  <div class="webgame">
+    <div class="webgl-content">
+      <div id="unityContainer" name="paused" style="width: 960px; height: 600px; margin-right: 30px; border: 5px; border-color: #555; border: solid;" >
+        <button name="penguin_peril"><img name="penguingame" src="..//Images\penguinsplashscreen.png" alt="penguingame" width="100%" height="100%"></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="flex_body_column">
+  <div class="flex_CV">
+    <div class="subtitle" id="game2">
+      Meer spellen in de toekomst...
+    </div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="games.js"></script>
+</body>
+
+</html>
