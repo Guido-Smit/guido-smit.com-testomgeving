@@ -4,6 +4,13 @@
 <head>
     <link rel=stylesheet href=index.css />
     <meta charset="UTF-8">
+    <meta property='og:title' content='The personal website of Guido Smit'/>
+    <meta property='og:type' content='website'>
+    <meta property='og:image' content='https://guido-smit.com/Images/Overview.jpg' />
+    <meta property='og:image:alt' content='A link to my personal website' />
+    <meta property='og:description' content='The personal website of Guido'/>
+    <meta property='og:url' content='https://www.guido-smit.com'/>
+    <meta name='author' content='Guido Smit'>
     <title>Guido-Smit.com</title>
     <link rel="shortcut icon" type="image/x-icon" href="Images/penguin.ico" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -114,7 +121,7 @@
            Wie ben ik?
         </div>
         <div class="text" id="wie_ben_ik_text">
-            Mijn naam is Guido Smit. Ik ben afgestudeerd Master of Science in de biologie en sinds een omscholing ook junior software developer.
+            Mijn naam is Guido Smit. Ik ben afgestudeerd Master of Science in de biologie en d.m.v omscholing ook junior software developer en testspecialist.
             <br> 
             <br>
             Ik heb altijd een grote passie voor natuur en natuurfotografie gehad en in mijn vrije tijd ben ik vaak met een camera in de buitenlucht te vinden.
@@ -123,10 +130,10 @@
             Verder besteed ik graag tijd aan videogames en bordspellen, vaak samen met vrienden. Uit de voorliefde voor videogames is ook mijn interesse in IT voortgekomen.
             <br>
             <br>
-            Mijn omscholing heeft plaatsgevonden tijdens een traineeship van Young Capital. Ik heb hierbij kennisgemaakt met verschillende programmeertalen en ook leren werken volgens het SCRUM framework.
+            Mijn omscholing heeft plaatsgevonden tijdens een traineeship van Young Capital en een traineeship van KZA.
             <br>
             <br>
-            Ik heb sinds tijdens mijn omscholing al een half jaar gewerkt als software developer en ben nu op zoek naar een nieuwe werkplek om deze carriere voort te zetten.
+            Ik heb sinds mijn omscholing al een half jaar gewerkt als software developer en ben momenteel werkzaam bij de Rabobank, via KZA, in de AML (Anti Money Laundering) afdeling. 
             <br>
             <br>
             Door middel van deze website kunt u kennismaken met mij en mijn skills.
@@ -427,7 +434,7 @@
                 <br>
                 <br>
                 <li>
-                    Ik ben opzoek naar een leuke en gezellige baan waar in teamverband nieuwe software wordt ontwikkeld.
+                    Ik ben NIET LANGER op zoek naar een nieuwe baan!!
                 </li> 
                 <br>
                 <br>

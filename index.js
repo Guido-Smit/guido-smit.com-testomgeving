@@ -30,13 +30,12 @@ $(document).ready(function() {
           language:"Taal",
           guido_info:"Wie ben ik?",
           wie_ben_ik_text: "Mijn naam is Guido Smit. " 
-            + " Mijn naam is Guido Smit. Ik ben afgestudeerd Master of Science in de biologie en sinds een omscholing ook junior software developer. " 
+            + " Ik ben afgestudeerd Master of Science in de biologie en d.m.v omscholing ook junior software developer en testspecialist. " 
             + "<br> <br> Ik heb altijd een grote passie voor natuur en natuurfotografie gehad en in mijn vrije tijd ben ik vaak met een camera in de buitenlucht te vinden. " 
             + "<br> <br> Verder besteed ik graag tijd aan videogames en bordspellen, vaak samen met vrienden. " 
             + "Uit de voorliefde voor videogames is ook mijn interesse in IT voortgekomen. " 
-            + "<br> <br> Mijn omscholing heeft plaatsgevonden tijdens een traineeship van Young Capital. "
-            + "Ik heb hierbij kennisgemaakt met verschillende programmeertalen en ook leren werken volgens het SCRUM framework." 
-            + "<br> <br> Ik heb sinds mijn omscholing een half jaar gewerkt als software developer en ben nu op zoek naar een nieuwe werkplek om deze carriere voort te zetten. " 
+            + "<br> <br> Mijn omscholing heeft plaatsgevonden tijdens een traineeship van Young Capital en een traineeship van KZA."
+            + "<br> <br> Ik heb sinds mijn omscholing al een half jaar gewerkt als software developer en ben momenteel werkzaam bij de Rabobank, via KZA, in de AML (Anti Money Laundering) afdeling. " 
             + "<br> <br> Door middel van deze website kunt u kennismaken met mij en mijn skills. " 
             + "<br> <br> <br> <a href='https://www.linkedin.com/in/guido-smit-zandvoort/' class='linkedin'><i class='fa fa-linkedin'></i></a> <a href='https://www.facebook.com/GuidoSmitPhotography/' class='facebook'><i class='fa fa-facebook'></i></a>",
           hobbies:"Hobbies",
@@ -102,7 +101,7 @@ $(document).ready(function() {
           overzicht:"Snel overzicht",
           overzicht_text:"<ul> <li> Ik heb een rijbewijs B en ben in het bezit van een auto voor woon-werk reizen. " 
             + "</li> <br> <br> <li> Tijdens mijn vrije tijd ben ik aan het gamen, speel ik bordspelletjes of maak ik foto's in de natuur. " 
-            + "</li> <br> <br> <li> Ik ben opzoek naar een leuke en gezellige baan waar in teamverband nieuwe software wordt ontwikkeld. " 
+            + "</li> <br> <br> <li> Ik ben NIET LANGER op zoek naar een nieuwe baan!! " 
             + "</li> <br> <br> <li> Mijn favoriete dier is de pinguin, mijn favoriete game serie is Pokémon en mijn favoriete kleur is blauw. " 
             + "</li> </ul>",
           contact:"Contactgegevens",
@@ -135,12 +134,11 @@ $(document).ready(function() {
         language:"Language",
         guido_info:"Who am I?",
         wie_ben_ik_text: "My name is Guido Smit. "
-          + "I have graduated as a Master of Science in biology and have also learned how to work as a software developer. " 
+          + "I have graduated as a Master of Science in biology and have also learned how to work as a software developer and testspecialist. " 
           + " <br> <br> I have always had a great passion for nature and nature-photography and in my free time you can often find me outdoors with a camera around my neck. " 
           + "<br> <br> If I am not outside you can often find me playing videogames or boardgames together with my friends. "
-          + "The love for videogames was also what sparked my interest in computers and IT. <br> <br> I have been trained as a software developer at Young Capital during a traineeship. "
-          + "This traineeship has introduced me to several programming languages and I have also learned how to work in accordance with the SCRUM framework. "
-          + "<br> <br> During the traineeship I have spend half a year working as a software developer already and am now looking for a new place to continue my career as software developer. " 
+          + "The love for videogames was also what sparked my interest in computers and IT. <br> <br> I have been trained as a software developer, by Young Capital, and as a testspecialist by KZA. "
+          + "<br> <br> Since my traineeships I have spend half a year working as a software developer and am currently working at the Rabobank, via KZA, in the AML (Anti money Laundering) departement. " 
           + "<br> <br> Through this website I aim to provide an quick introduction to me and my skills. " 
           + "<br> <br> <br> <a href='https://www.linkedin.com/in/guido-smit-zandvoort/' class='linkedin'><i class='fa fa-linkedin'></i></a> <a href='https://www.facebook.com/GuidoSmitPhotography/' class='facebook'><i class='fa fa-facebook'></i></a>",
         hobbies:"Hobbies",
@@ -206,7 +204,7 @@ $(document).ready(function() {
         overzicht:"Quick summary",
         overzicht_text:"<ul> <li> I have a dutch drivers license (B) and I own a car for easier travelling to and from work. " 
           + "</li> <br> <br> <li> In my spare time I play videogames, play boardgames or make photos outside. " 
-          + "</li> <br> <br> <li> I am looking for a fun and social job where I can work on software development. " 
+          + "</li> <br> <br> <li> I am NO LONGER looking for new job position!!! " 
           + "</li> <br> <br> <li> My favorite animal is the penguin, my favorite game series is Pokémon and my favorite color is blue. " 
           + "</li> </ul>",
         contact:"Contact info",
