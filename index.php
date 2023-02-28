@@ -465,7 +465,7 @@
     } 
 ?>
 
-<div class="flex_body">
+<!-- <div class="flex_body">
     <div class="flex_CV">
         <div class="subtitle" id="contact">
             Contactgegevens:
@@ -498,7 +498,7 @@
             <a href="https://www.facebook.com/GuidoSmitPhotography/" class="facebook"><i class="fa fa-facebook"></i></a>
         </div>
     </div>
-</div>
+</div> -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="index.js"></script>

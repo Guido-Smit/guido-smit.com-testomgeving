@@ -104,18 +104,18 @@ $(document).ready(function() {
             + "</li> <br> <br> <li> Ik ben NIET LANGER op zoek naar een nieuwe baan!! " 
             + "</li> <br> <br> <li> Mijn favoriete dier is de pinguin, mijn favoriete game serie is Pokémon en mijn favoriete kleur is blauw. " 
             + "</li> </ul>",
-          contact:"Contactgegevens",
-          contact_text: "U kunt hier uw naam, email en een kort berichtje achterlaten als u mij wilt contacteren. "
-          + "<br> <br>"
-          + "<form action='' method='post'> Naam: <input type='text' name='naam'> "
-          + "<br> <br> "
-          + "Email: <input type='text' name='bezoeker-email'> "
-          + "<br> <br> "
-          + "Bericht:<br><textarea rows='5' name='message' cols='30'></textarea><br> "
-          + "<input type='submit' name='submit' value='Versturen' id='verstuurknop'> "
-          + "</form>"
-          + "<br>",
-          mail_confirmation: "Uw mail is succesvol verzonden, een antwoord volgt zo spoedig mogelijk."
+          // contact:"Contactgegevens",
+          // contact_text: "U kunt hier uw naam, email en een kort berichtje achterlaten als u mij wilt contacteren. "
+          // + "<br> <br>"
+          // + "<form action='' method='post'> Naam: <input type='text' name='naam'> "
+          // + "<br> <br> "
+          // + "Email: <input type='text' name='bezoeker-email'> "
+          // + "<br> <br> "
+          // + "Bericht:<br><textarea rows='5' name='message' cols='30'></textarea><br> "
+          // + "<input type='submit' name='submit' value='Versturen' id='verstuurknop'> "
+          // + "</form>"
+          // + "<br>",
+          // mail_confirmation: "Uw mail is succesvol verzonden, een antwoord volgt zo spoedig mogelijk."
         },
       english : {
         title : "Guido's profile page", 
@@ -206,19 +206,19 @@ $(document).ready(function() {
           + "</li> <br> <br> <li> In my spare time I play videogames, play boardgames or make photos outside. " 
           + "</li> <br> <br> <li> I am NO LONGER looking for new job position!!! " 
           + "</li> <br> <br> <li> My favorite animal is the penguin, my favorite game series is Pokémon and my favorite color is blue. " 
-          + "</li> </ul>",
-        contact:"Contact info",
-        contact_text: "If you wish to contact me you can fill in your name, email and a short message here. "
-          + "<br> <br>"
-          + "<form action='' method='post'> Name: <input type='text' name='naam'> "
-          + "<br> <br> "
-          + "Email: <input type='text' name='bezoeker-email'> "
-          + "<br> <br> "
-          + "Message:<br><textarea rows='5' name='message' cols='30'></textarea><br> "
-          + "<input type='submit' name='submit' value='Send Message' id='verstuurknop'> "
-          + "</form>"
-          + "<br>",
-        mail_confirmation: "Your mail has been sent succesfully, a reply will follow as soon as possible."
+          + "</li> </ul>"
+        // contact:"Contact info",
+        // contact_text: "If you wish to contact me you can fill in your name, email and a short message here. "
+        //   + "<br> <br>"
+        //   + "<form action='' method='post'> Name: <input type='text' name='naam'> "
+        //   + "<br> <br> "
+        //   + "Email: <input type='text' name='bezoeker-email'> "
+        //   + "<br> <br> "
+        //   + "Message:<br><textarea rows='5' name='message' cols='30'></textarea><br> "
+        //   + "<input type='submit' name='submit' value='Send Message' id='verstuurknop'> "
+        //   + "</form>"
+        //   + "<br>",
+        // mail_confirmation: "Your mail has been sent succesfully, a reply will follow as soon as possible."
         }
     }
 
@@ -260,9 +260,9 @@ $(document).ready(function() {
     $("#CV_game_text2").html(lang[($language.toString())]["CV_game_text2"]);
     $("#overzicht").html(lang[($language.toString())]["overzicht"]);
     $("#overzicht_text").html(lang[($language.toString())]["overzicht_text"]);
-    $("#contact").html(lang[($language.toString())]["contact"]);
-    $("#contact_text").html(lang[($language.toString())]["contact_text"]);
-    $("#mail_confirmation").html(lang[($language.toString())]["mail_confirmation"]);
+    // $("#contact").html(lang[($language.toString())]["contact"]);
+    // $("#contact_text").html(lang[($language.toString())]["contact_text"]);
+    // $("#mail_confirmation").html(lang[($language.toString())]["mail_confirmation"]);
 
 
 
